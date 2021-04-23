@@ -5,11 +5,10 @@ Developer, Gamer
 
 - 🔭 I’m currently working for eBay
 - 🌱 I’m currently learning Flutter & Go
-- 📫 My Sites
-  - [Blog](https://hojondo.com)
-  - <a href="https://www.npmjs.com/package/react-dependent-form"><img alt="npm" title="npm" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg"></a>
-- ⚡
-  [![my GitHub](https://github-readme-stats.vercel.app/api?username=Hojondo&amp;show_icons=true)]()
+- [📫 My Site](https://hojondo.com)
+- <a href="https://www.npmjs.com/package/react-dependent-form"><img alt="npm" title="npm" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg"></a>
+
+[![my GitHub](https://github-readme-stats.vercel.app/api?username=Hojondo&amp;show_icons=true)]()
 
 
 <!--
