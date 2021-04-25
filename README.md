@@ -7,8 +7,9 @@
 - 🔭 I’m currently working for eBay
 - 🌱 I’m currently learning Flutter & Dart
 
+<!--
 [![my GitHub](https://github-readme-stats.vercel.app/api?username=Hojondo&amp;show_icons=true)]()
-
+-->
 
 <!--
 **Hojondo/Hojondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
