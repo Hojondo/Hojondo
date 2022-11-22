@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working for eBay
-- 🌱 I’m currently learning Flutter & Dart
+- 🌱 I’m currently learning ThreeJS & GLSL
 
 <!--
 [![my GitHub](https://github-readme-stats.vercel.app/api?username=Hojondo&amp;show_icons=true)]()
